@@ -1,0 +1,20 @@
+{
+    "name": "xaxiong/anglelib",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.27"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xaxiong",
+            "email": "xiongxiaoan@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Guanguans\\": "angle/"
+        }
+    }
+}
