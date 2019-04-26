@@ -1,5 +1,5 @@
 {
-    "name": "xaxiong/anglelib",
+    "name": "xaxiong/test",
     "type": "library",
     "require": {
         "php": ">=5.6.27"
